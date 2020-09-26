@@ -1,5 +1,6 @@
 //By: Peter Tieu
-//Link to gameplay: 
+//Link to GitHub: https://github.com/PeterTieu/Battle-Star
+//Link to YouTube Gameplay: https://www.youtube.com/watch?v=b79-vNMa7Xs&feature=youtu.be
 
 #include "splashkit.h"
 #include "battlestar.h"
